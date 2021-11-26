@@ -1,21 +1,25 @@
-# Imaginary Embedded System: Muralbot
+# Making Embedded Systems
 
-*Prompt:* Invent an Imaginary Embedded System
+From the [overview](https://classpert.com/classpertx/cohorts/making-embedded-systems):
 
-> Tell us about an embedded system that does not exist. It can be grandiose or
-> strange; it can be something just one step beyond what you have around you.
-> Ideally it is something you personally want to build (even if physics doesn’t
-> allow it). What is it? What does it do? What general components do you need?
+> Week by week, you’ll learn the foundations of embedded systems programming,
+> and will walk away with the ability to design and build products of your own.
+> You’ll gain practical knowledge and insights to accelerate your career as an
+> embedded systems engineer.
 
-## Summary
+## Coursework
 
-The muralbot is a small device that acts as a self-driving plotter on a wall.
-It is able to adhere to many kinds of surfaces using its sticky wheels while
-still allowing for freedom of movement, even on vertical surfaces.
+The following links contain my homework & other items for each week of the
+class:
 
-The main components are:
-
-- Spray can or marker for drawing
-- Motors to drive the wheels
-- A solenoid to raise & lower the marker
-- Bluetooth to receieve drawing information
+- [Week 1](week_1/README.md)
+- [Week 2](week_2/README.md)
+- Week 3A
+- Week 3B
+- Week 4
+- Week 5
+- Week 6
+- Week 7
+- Week 8
+- Week 9
+- Week 10
