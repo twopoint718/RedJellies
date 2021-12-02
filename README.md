@@ -14,7 +14,7 @@ class:
 
 - [Week 1](week_1/README.md)
 - [Week 2](week_2/README.md)
-- Week 3A
+- [Week 3A](week_3a/README.md)
 - Week 3B
 - Week 4
 - Week 5
