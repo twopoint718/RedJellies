@@ -4,7 +4,9 @@
 
 ## Hardware Block Diagram
 
-TODO
+I found the block diagram in the board user manual:
+
+![block diagram](img/block_diagram.png)
 
 ## Questions
 
