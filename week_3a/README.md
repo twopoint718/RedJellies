@@ -1,6 +1,6 @@
-# Week 3A, Investigate project board: B-L475E-IOT01A
+# Week 3A, Investigate project board: STM32L4 Discovery Kit IoT Node (B-L475E-IOT01A)
 
-Description: *STM32L4 Discovery kit IoT node, low-power wireless, BLE, NFC, SubGHz, Wi-Fi*
+*low-power wireless, BLE, NFC, SubGHz, Wi-Fi*
 
 ## Hardware Block Diagram
 
