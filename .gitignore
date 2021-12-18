@@ -1,6 +1,11 @@
+.cproject
 .DS_Store
+.project
+.vscode/
 *.graffle
 *.o
+**/*.log
+blinky_stm32.launch
+BUILD
 docs/
-.vscode/
 main
