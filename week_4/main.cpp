@@ -8,7 +8,7 @@ InterruptIn button(USER_BUTTON);
 Timer timer;
 
 // Blink mode, when true LED is blinking
-bool should_blink = true;
+volatile bool should_blink = true;
 
 // Number of stable button readings needed
 int bounce_count = 2;
