@@ -34,7 +34,7 @@ Good work today!
 
 Features/techniques used:
 
-- E-ink display
+- LCD matrix display
 - Custom graphics
 - PWM buzzer
 - Accelerometer
@@ -50,9 +50,9 @@ TODO
 
 ## State Table
 
-| State                | Event                    | Next                 | state State var: pomodoros |
+| State                | Event                    | Next                 | State var: pomodoros       |
 |----------------------|--------------------------|----------------------|----------------------------|
-| START                | [NONE]                   | SHOW_STATS           | pomodoros = 0              |
+| START                | (NONE)                   | SHOW_STATS           | pomodoros = 0              |
 | SHOW\_STATS          | orientation: pomodoro    | TIMING\_POMODORO     |                            |
 | SHOW\_STATS          | orientation: short break | TIMING\_SHORT\_BREAK |                            |
 | SHOW\_STATS          | orientation: long break  | TIMING\_LONG\_BREAK  |                            |
@@ -60,4 +60,4 @@ TODO
 | TIMING\_SHORT\_BREAK | timeout (5 min)          | SHOW\_STATS          |                            |
 | TIMING\_LONG\_BREAK  | timeout (15 min)         | SHOW\_STATS          |                            |
 | TIMING\_LONG\_BREAK  | timeout (15 min)         | SHOW\_STATS          |                            |
-| [ANY]                | reset button             | SHOW\_STATS          | pomodoros = 0              |
+| (ANY)                | reset button             | SHOW\_STATS          | pomodoros = 0              |
