@@ -18,7 +18,7 @@ class:
 - [Week 3B](week_3b/README.md)
 - [Week 4](week_4/README.md)
 - [Week 5](week_5/README.md)
-- Week 6
+- [Week 6](week_6/README.md)
 - Week 7
 - Week 8
 - Week 9
