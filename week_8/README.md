@@ -6,3 +6,16 @@
 > initialized variables. Verify it is as expected in the memory
 > map. See how that changes your code output.
 
+![memory map](img/memory_map.png)
+
+The end of RAM-type memory (origin RAM + length RAM)
+origin RAM  = 0x20000000 (listed in linker file)
+length RAM  = 0x00018000 (listed in linker file, 96K)
+
+\_estack    = 0x20018000 (listed in map file)
+\_end       = 0x20000478 (listed in map file)
+
+Heap pointer:
+Stack pointer:
+Global address:
+
