@@ -20,6 +20,6 @@ class:
 - [Week 5](week_5/README.md)
 - [Week 6](week_6/README.md)
 - [Week 7](week_7/README.md)
-- Week 8
+- [Week 8](week_8/README.md)
 - Week 9
 - Week 10
