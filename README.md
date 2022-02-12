@@ -22,4 +22,4 @@ class:
 - [Week 7](week_7/README.md)
 - [Week 8](week_8/README.md)
 - [Week 9](week_9/README.md)
-- Week 10
+- [Week 10](week_10/README.md)
