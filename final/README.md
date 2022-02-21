@@ -1,5 +1,6 @@
 # Application Description
-![Video](https://youtu.be/SAWNX4JMfBI)
+
+YouTube video demo: https://youtu.be/SAWNX4JMfBI
 
 This final project is a desktop [Pomodoro timer](https://francescocirillo.com/pages/pomodoro-technique).
 It consists of a triangular-shaped digital desktop timer that has some allowances for using the Pomodoro Technique.
