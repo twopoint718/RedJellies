@@ -23,3 +23,5 @@ class:
 - [Week 8](week_8/README.md)
 - [Week 9](week_9/README.md)
 - [Week 10](week_10/README.md)
+- [Final Report](final/README.md)
+- [Source Code](https://github.com/twopoint718/pomodoro-timer)
